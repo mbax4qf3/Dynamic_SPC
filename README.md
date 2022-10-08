@@ -31,17 +31,24 @@ We study the maintenance of the 2-hop labeling for shortest path counting. We ad
 ---
 ### answer: answers files
 ---
+### update: update files
+|File name|Description|
+|---|----|
+|0_inc.txt|inserted edge|
+|0_dec.txt|deleted edge|
 ---
 ## Files:
 |File name|Description|
 |---|----|
+|progressbar.h|progressbar implementation|
+|two_layer_queue.h|used for BiBFS|
 |macros.h|macros operations|
 |u_label.h|define labels|
 |u_io.cc & u_io.h|read graph|
 |u_spc.h & u_spc.cc|all implementations|
 |u_index.cc|building index|
 |u_query.cc|query|
-|u_update.cc|update |
+|u_update.cc|update index|
 |dspc_0.sh|script for running|
 |Makefile|Makefile|
 
