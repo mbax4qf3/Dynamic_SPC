@@ -11,23 +11,23 @@ We study the maintenance of the 2-hop labeling for shortest path counting. We ad
 
 ## Folders:
 ### graph: graph files
-|Index|File name|Description|
-|--|---|----|
-|a|0.txt|original graph|
+|File name|Description|
+|---|----|
+|0.txt|original graph|
 ---
 ### label:	label files
 ---
 ### query: query files
-|Index|File name|Description|
-|--|---|----|
-|1|0_q.txt|query pairs|
+|File name|Description|
+|---|----|
+|0_q.txt|query pairs|
 ---
 ###	info: information files
-|Index|File name|Description|
-|--|---|----|
-|I|0_ori.txt|index contruction time and # of label entries for a|
-|II|0_inc.txt|update info for incremnetal update|
-|III|0_dec.txt|update info for decremnetal update|
+|File name|Description|
+|---|----|
+|0_ori.txt|index contruction time and # of label entries for graph 0.txt|
+|0_inc.txt|update info for incremnetal update|
+|0_dec.txt|update info for decremnetal update|
 ---
 ### answer: answers files
 ---
