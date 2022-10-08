@@ -15,7 +15,7 @@ We study the maintenance of the 2-hop labeling for shortest path counting. We ad
 |--|---|----|
 |a|0.txt|original graph|
 ---
-### label:	label files (for a above)
+### label:	label files
 ---
 ### query: query files
 |Index|File name|Description|
