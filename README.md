@@ -29,7 +29,7 @@ We study the maintenance of the 2-hop labeling for shortest path counting. We ad
 |II|0_inc.txt|update info for incremnetal update|
 |III|0_dec.txt|update info for decremnetal update|
 ---
-### answer: answers files (for 1,2,3,4,5)
+### answer: answers files
 ---
 ---
 ## Files:
