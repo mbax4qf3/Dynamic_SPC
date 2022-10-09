@@ -52,7 +52,7 @@ We study the maintenance of the 2-hop labeling for shortest path counting. We ad
 |dspc_0.sh|script for running|
 |Makefile|Makefile|
 
-## Execution: (Examples see run_script.sh)
+## Execution: (Examples see dspc_0.sh)
 ### ./u_index:
 |Parameters|Type|Description|
 |--|--|---|
